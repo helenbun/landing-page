@@ -1,6 +1,10 @@
 # landing-page
 Landing page using flexbox.
 
+I found parts of this challenging. Getting images to behave as I expect them to such as not getting squashed when re-sizing the page. However, this was not meant to be optimised for smaller screens so I am happy with the final outcome. 
+
+These are the stock photos that I have used in my project:
+
 Photo by <a href="https://unsplash.com/@hollymandarich?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Holly Mandarich</a> on <a href="https://unsplash.com/photos/person-carrying-yellow-and-black-backpack-walking-between-green-plants-UVyOfX3v0Ls?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo by <a href="https://unsplash.com/@heftiba?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Toa Heftiba</a> on <a href="https://unsplash.com/photos/bonfire-DUXACn8tgp4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
